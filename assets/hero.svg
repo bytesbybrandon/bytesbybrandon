@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Bytes by Brandon. Not cookie-cutter.</title>
+  <desc id="desc">An editorial charcoal and gold banner with a bitten cookie mark. Brandon D. Phillips, full-stack engineer and researcher, Chicago.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#c2a13b" stroke-opacity="0.065"/>
+    </pattern>
+    <linearGradient id="gold" x1="0" x2="1" y2="1">
+      <stop stop-color="#d9bd68"/>
+      <stop offset="1" stop-color="#ba9734"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="18" fill="#121411"/>
+  <rect width="1280" height="440" rx="18" fill="url(#grid)"/>
+  <path d="M48 70V48H70M1210 48H1232V70M48 370V392H70M1210 392H1232V370" fill="none" stroke="#c2a13b" stroke-opacity="0.55"/>
+  <g font-family="'Courier New',monospace" font-size="15" letter-spacing="3" fill="#c9b16c">
+    <text x="78" y="88">BYTES BY BRANDON</text>
+    <text x="1202" y="88" text-anchor="end" font-size="12" letter-spacing="2">CHICAGO / BUILDING WITH INTENT</text>
+  </g>
+  <g font-family="Georgia,'Times New Roman',serif" font-size="104" letter-spacing="-4">
+    <text x="72" y="205" fill="#f1eee4">Not</text>
+    <text x="72" y="309" fill="url(#gold)">cookie-cutter.</text>
+  </g>
+  <path d="M78 343H746" stroke="#c2a13b" stroke-opacity="0.28"/>
+  <text x="78" y="374" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#cbcbbf">Brandon D. Phillips <tspan fill="#63695d"> / </tspan> Full-stack engineer &amp; researcher</text>
+  <g transform="translate(870 104) scale(.58)" fill="none" stroke="#c2a13b" stroke-width="36" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M148 57C84 87 42 151 41 222C40 326 123 413 228 417C337 421 423 335 419 224C386 241 350 226 329 202C309 178 308 153 330 127C297 141 270 128 256 107C249 96 251 81 252 72C234 107 197 111 167 88C153 77 151 66 148 57Z"/>
+  </g>
+  <g transform="translate(870 104) scale(.58)" fill="#c2a13b">
+    <circle cx="141" cy="183" r="26"/>
+    <circle cx="244" cy="214" r="26"/>
+    <circle cx="159" cy="285" r="26"/>
+    <circle cx="255" cy="317" r="26"/>
+    <circle cx="325" cy="50" r="24"/>
+    <circle cx="407" cy="60" r="15"/>
+    <circle cx="410" cy="141" r="17"/>
+  </g>
+  <path d="M846 137V340" stroke="#c2a13b" stroke-opacity="0.17"/>
+  <circle cx="78" cy="416" r="3" fill="#c2a13b"/>
+  <text x="90" y="420" font-family="'Courier New',monospace" font-size="10" letter-spacing="1.5" fill="#92988a">COMPLEX SOFTWARE. UNDERSTANDABLE SYSTEMS.</text>
+</svg>
